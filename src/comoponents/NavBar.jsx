@@ -1,4 +1,5 @@
 import React from "react";
+import IconCart from "./CartWidget";
 const NavBar=()=>{
 return(
 <nav class="navbar navbar-expand-lg bg-light">
@@ -13,7 +14,7 @@ return(
           <a class="nav-link active" aria-current="page" href="https://www.facebook.com/">Productos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/">Carrito</a>
+          <a class="nav-link" href="https://www.facebook.com/" >Carrito</a> 
         </li>
       </ul>
       <form class="d-flex" role="search">
