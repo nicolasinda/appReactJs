@@ -1,10 +1,12 @@
 import React from "react";
 
-const IconCart=()=>{
+const CartWidget=()=>{
     return(
-        <i class="bi bi-cart"></i>
+        <>
+      <i className="bi bi-cart3"></i>
+        </>
     )
 
 };
 
-export default IconCart;
+export default CartWidget;
