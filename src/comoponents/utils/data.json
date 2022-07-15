@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Teriann",
+    "price": "$520",
+    "stock": 2,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "title": "Brit",
+    "price": "$340",
+    "stock": 8,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNS_mITEG5KD54P9Vf-_itUhpVnvP5CqzYa4500ktwZIuwGC92vVV3ouzSAXh0vaOKamU&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "title": "Gaultiero",
+    "price": "$200",
+    "stock": 9,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuLaNbLFLPGV8Tb7aQBD2OnVJ8NpVPmIMyRfkEvEoJCy6-EpIdede7DRLSvJv7ivDL-w&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "title": "Cristy",
+    "price": "$870",
+    "stock": 9,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "title": "Nicholle",
+    "price": "$180",
+    "stock": 5,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "title": "Marijo",
+    "price": "$270",
+    "stock": 2,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "title": "Juan",
+    "price": "$310",
+    "stock": 7,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "title": "Clary",
+    "price": "$520",
+    "stock": 5,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "title": "Blinni",
+    "price": "$470",
+    "stock": 6,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "title": "Yvonne",
+    "price": "$630",
+    "stock": 10,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "title": "Yvonne",
+    "price": "$220",
+    "stock": 8,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "title": "Yvonne",
+    "price": "$140",
+    "stock": 10,
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
+  }
+]
