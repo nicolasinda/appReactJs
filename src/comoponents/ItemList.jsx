@@ -1,5 +1,6 @@
 
 import Item from "./Item";
+import { Link } from 'react-router-dom';
 
 const ItemList = ({ items }) => {
   return (

@@ -54,33 +54,5 @@
     "price": "$520",
     "stock": 5,
     "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
-  },
-  {
-    "id": 9,
-    "title": "Blinni",
-    "price": "$470",
-    "stock": 6,
-    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
-  },
-  {
-    "id": 10,
-    "title": "Yvonne",
-    "price": "$630",
-    "stock": 10,
-    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
-  },
-  {
-    "id": 10,
-    "title": "Yvonne",
-    "price": "$220",
-    "stock": 8,
-    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
-  },
-  {
-    "id": 10,
-    "title": "Yvonne",
-    "price": "$140",
-    "stock": 10,
-    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7H9_vm4svQgVHihE0Xj2u48D6yhIzhOzX1BqE9Wa1HtY8sER_b_sWAgdCxuz8ro5Zdc&usqp=CAU"
   }
 ]

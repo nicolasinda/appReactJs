@@ -1,11 +1,13 @@
 import { useState, useEffect } from "react";
+import { Link } from 'react-router-dom';
+import { useParams } from "react-router-dom";
 import ItemList from "./ItemList";
 import data from "./utils/data";
 
 const ItemListContainer = () => {
   const [items, setItems] = useState([]);
   const promise = new Promise((resolve) => {
-    setTimeout(() => resolve(data), 2000);
+    setTimeout(() => resolve(data), 1000);
   });
 
   useEffect(() => {
