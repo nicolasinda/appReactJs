@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- Readme primera preentrefa -->
+
+Instructions for use:
+-Git clone https://github.com/nicolasinda/luceroECommerce.git
+-npm install
+-npm start
+
+Application created for an ecommerce company
+easy to navigate, in an intuitive way. 
+
+
