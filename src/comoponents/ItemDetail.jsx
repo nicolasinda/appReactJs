@@ -16,6 +16,7 @@ const ItemDetail = ({ item }) => {
 
     
             <p className="card-text">{stock} Disponible</p>
+      
 
             <button className="btn btn-primary mb-2" type="button">Añadir al carrito</button>
           

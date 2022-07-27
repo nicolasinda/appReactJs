@@ -17,7 +17,9 @@ return(
           </Link>
         </li>
         <li className="nav-item">
-        <a className="nav-link" href="https://www.facebook.com/" >{<CartWidget/>}</a>
+        <Link  className="nav-link"  to={"/cart"}>{<CartWidget/>}
+    </Link>
+     
         
         </li>
         
